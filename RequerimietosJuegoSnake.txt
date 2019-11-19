@@ -1,0 +1,19 @@
+SNAKE GAME ON ASSEMBLY x86
+Requerimientos:
+1.	La version de assembler a utilizar es la x86
+2. 	Para el movimiento de de la serpiente, utilizar las flechas: up, down, left and right
+3.	La cabeza de la serpiente puede ser una un asterisco.
+4.	se deben generar comidas de forma aleatorias para la serpiente.
+5.	La comida deben de ser letras del alfabeto.
+6.	Cada vez que la serpiente coma, la letra debe añadirse a la cola (Al final, segun vaya comiendo).
+7.	Cada vez que la serpiente coma, debe generar un sonido.
+8.	Si la serpiente toca el borde de la pantalla, pierde (Esta parte la puedes manejar como sea más comodo). Es decir,
+Si quieres que cuando toque el borde pase al otro extremo de la pantalla y siga jugando, también está bien. 
+9. 	Si la serpiente toca su cola, pierde. 
+10.	Si el guego se ha acabado (Game over), que genere un sonido distinto al sonido de cuando la serpiente come. 
+11.	Notas: 
+	-Como es de costumbre, los sonidos deberían de durar solo unos pocos segundos.
+	-Por favor,  comenta cada línea. Imagínate que es a un niño a quien le explicas. Puedes comentar todo lo que quieras
+	con el fin de que se pueda entender lo que se hace el juego en cada línea de manera que se expliquen los objetivos
+de esa pieza de codigo y su uso. :'/
+
